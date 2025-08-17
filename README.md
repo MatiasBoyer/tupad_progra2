@@ -25,4 +25,7 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 └── 📁 TP1 
     └── 📝 TP1_IntroduccionAJava.pdf  
     └── 📁 Proyecto java  
+└── 📁 TP2 
+    └── 📝 TP2_ProgramaciónEstructurada.pdf  
+    └── 📁 Proyecto java  
 ```
